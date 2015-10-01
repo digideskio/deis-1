@@ -1,0 +1,19 @@
+{
+    "menu":{
+	    "scm": [
+                "contributors",
+                "repos"
+	    ],
+	    "qaforums": [
+                "contributors"
+	    ],
+	    "its": [
+                "contributors",
+                "repos"
+	    ],
+	    "scr": [
+                "repos"
+	    ]
+    },
+    "releases":[]
+}
