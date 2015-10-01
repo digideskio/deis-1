@@ -1,6 +1,7 @@
 {
     "menu":{
 	    "scm": [
+                "domains",
                 "contributors",
                 "repos"
 	    ],
@@ -8,12 +9,16 @@
                 "contributors"
 	    ],
 	    "its": [
+                "domains",
                 "contributors",
                 "repos"
 	    ],
 	    "scr": [
                 "repos"
-	    ]
+	    ],
+        "studies": [
+            "demographics"
+        ]
     },
     "releases":[]
 }
