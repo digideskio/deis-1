@@ -1,18 +1,18 @@
 {
     "menu":{
 	    "scm": [
-                "organizations",
-                "domains",
                 "contributors",
+                "domains",
+                "organizations",
                 "repos"
 	    ],
 	    "qaforums": [
                 "contributors"
 	    ],
 	    "its": [
-                "organizations",
-                "domains",
                 "contributors",
+                "domains",
+                "organizations",
                 "repos"
 	    ],
 	    "scr": [
