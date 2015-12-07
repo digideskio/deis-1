@@ -21,7 +21,8 @@
 	    ],
         "studies": [
             "demographics"
-        ]
+        ],
+        "dockerhub": []
     },
     "releases":[]
 }
