@@ -753,8 +753,12 @@
         "name" : "Code review committers",
         "desc" : "Number of active core reviewers",
         "action": "+2/-2 votes"
+     },
+     "scr_timeto_merge_median": {
+        "divid": "scr_timeto_merge_median",
+        "column": "timeto_merge_median",
+        "name": "Time to merge (Median)"
      }
-
 },
 "qaforums": {
     "qaforums_participants" : {
